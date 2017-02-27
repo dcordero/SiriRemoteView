@@ -34,3 +34,19 @@ siriRemote.highlightedButton = .menu
 
 view.addSubview(siriRemote)
 ```
+
+## Installation
+
+### Cocoapods
+
+To integrate SiriRemoteView into your Xcode project using CocoaPods, specify it in your `Podfile`:
+
+```ruby
+source 'https://github.com/CocoaPods/Specs.git'
+platform :tvos, '9.0'
+use_frameworks!
+
+target '<Your Target Name>' do
+    pod 'SiriRemoteView', '~> 0.0.1'
+end
+```
