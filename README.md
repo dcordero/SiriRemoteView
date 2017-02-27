@@ -21,3 +21,16 @@ Customizable properties:
 - tvOS 9.0+
 - Xcode 8.2
 
+## Usage
+
+All you need is to create an instance of SiriRemoteView and add it on the screen:
+
+```swift
+let siriRemote = SiriRemoteView()
+siriRemote.backgroundColor = .clear
+siriRemote.lineColor = .black
+siriRemote.hightlightColor = .black
+siriRemote.highlightedButton = .menu
+
+view.addSubview(siriRemote)
+```
