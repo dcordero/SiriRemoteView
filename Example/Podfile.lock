@@ -1,0 +1,16 @@
+PODS:
+  - SiriRemoteView (0.0.1)
+
+DEPENDENCIES:
+  - SiriRemoteView (from `..`)
+
+EXTERNAL SOURCES:
+  SiriRemoteView:
+    :path: ".."
+
+SPEC CHECKSUMS:
+  SiriRemoteView: 18dac8fd0a3f1fd20a0bbef73354edfb044d6503
+
+PODFILE CHECKSUM: b9bbb30de2d497699a065a0c2066777d5a7388e1
+
+COCOAPODS: 1.2.0
