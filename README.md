@@ -1,6 +1,6 @@
 # SiriRemoteView
 
-Simple View representing a Siri Remote device
+Simple View representing a Siri Remote device to provide a more visual context to hint views.
 
 ![](preview.png)
 
