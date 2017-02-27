@@ -6,7 +6,7 @@ Simple View representing a Siri Remote device
 
 ## Description
 
-SiriRemoteView is a subclass of UIView, which allow representing on the screen a Siri Remote Device on different status.
+SiriRemoteView is a subclass of UIView, which allows representing a Siri Remote Device and its actions.
 
 Customizable properties:
 
