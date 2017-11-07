@@ -33,7 +33,6 @@ public class SiriRemoteView: UIView {
         }
     }
     
-    @IBInspectable
     public var highlightedButton: SiriRemoteButton? {
         didSet {
             setNeedsDisplay()
